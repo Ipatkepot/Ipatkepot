@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Ganti URL ini dengan link gambar/gif pixel art yang kamu suka -->
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxXFYY7XJC/giphy.gif](https://pin.it/6Jw0LsowO)" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxXFYY7XJC/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hola, I'm Ipatkepot! 👋</h1>
