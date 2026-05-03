@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVkMjl4cmt6Z2RrbnloOGI1NGVxZ3B4aDZwOGY5ajA2MGR0eWFsbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i5wllclzA5kiu8KUcZ/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56ZndueG56ZndueG56ZndueG56ZndueG56ZndueG56ZndueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12u0DayU6tS9lS/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hola, I'm Ipatkepot! 👋</h1>
